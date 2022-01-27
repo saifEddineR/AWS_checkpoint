@@ -1,0 +1,1 @@
+aws glue create-database --database-input "{\"gomycode\":\"tempdb\"}" --endpoint https://database.gomycode.com
